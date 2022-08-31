@@ -16,3 +16,5 @@ const init = async () => {
 };
 
 init();
+
+//Currently getting a 500 internal server error
